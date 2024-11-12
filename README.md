@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **Coding is like gaming**
 
-### Blogs posts
+### Blogs post
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
